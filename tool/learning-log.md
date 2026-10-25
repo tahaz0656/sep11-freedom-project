@@ -5,7 +5,7 @@
  1. The Math Property **"PI"**, the **"toFixed(2)"** displays Pi to only 2 decimal places instead of a very long number.
 
  For example: 
-![Pi output showing decimals](./pi.png)
+![Pi output showing decimals](./tool/math.js/pi.png)
 
  2. **Min and Max** are used to identify the highest and lowest numbers in a list of numbers.
 
